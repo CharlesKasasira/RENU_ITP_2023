@@ -24,4 +24,4 @@
 - Read about RSA
 
 #### WEEK 1 SUM UP
-![image]()
+![image](./images/weel1-tweet.png)
