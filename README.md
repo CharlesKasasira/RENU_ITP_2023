@@ -25,3 +25,21 @@
 
 #### WEEK 1 SUM UP
 ![image](./images/weel1-tweet.png)
+
+<hr />
+
+### Week 2 
+
+#### Monday: OS & VCS
+
+#### Tuesday: Virtualization & Containerization
+
+#### Wednesday: Set up Pi-hole
+[Pi-hole](https://pi-hole.net/) is a Linux network-level ad and Internet tracker blocking application that acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network
+
+#### Thursday: Active Directory on Windows Server. Project
+
+#### Friday: Active Directory
+
+#### WEEK 1 SUM UP
+Project Terms and Breakdown
