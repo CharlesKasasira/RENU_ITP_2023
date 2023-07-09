@@ -35,6 +35,8 @@
 #### Tuesday: Virtualization & Containerization
 
 #### Wednesday: Set up Pi-hole
+![image](./images/pihole.png)
+
 [Pi-hole](https://pi-hole.net/) is a Linux network-level ad and Internet tracker blocking application that acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network
 
 #### Thursday: Active Directory on Windows Server. Project
