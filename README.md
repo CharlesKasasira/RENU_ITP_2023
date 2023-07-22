@@ -43,5 +43,14 @@
 
 #### Friday: Active Directory
 
-#### WEEK 1 SUM UP
+#### WEEK 2 SUM UP
 Project Terms and Breakdown
+
+### WEEK 3
+
+
+### WEEK 4
+
+#### Friday: Career Talk from ED UCC
+
+
