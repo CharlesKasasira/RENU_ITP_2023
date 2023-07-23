@@ -8,3 +8,10 @@
 
 [pingplotter](https://www.pingplotter.com/)
 > PingPlotter is a network monitoring and troubleshooting solution that helps millions of internet citizens find the source of network problems and prove the culprit. 
+
+
+#### Online IP Subnet Calculators
+https://ipcalculator.com/
+https://www.subnet-calculator.com/
+https://www.calculator.net/ip-subnet-calculator.html
+http://jodies.de/ipcalc
