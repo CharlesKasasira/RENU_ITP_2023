@@ -18,7 +18,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 - RENU operations
   - [RENU board](https://renu.ac.ug/governance.html)
   - RENU secretariat
-  - Service: eduroam, eduVPN, Web hosting, Cloud, turnitin, etc
+  - [Service](https://renu.ac.ug/services.html): RENU Identity Federation, Connectivity, eduroam, eduVPN, Web hosting, Cloud, turnitin, etc
 
 #### Tuesday: Goals of the Industrial Training Program
 
