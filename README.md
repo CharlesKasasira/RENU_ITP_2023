@@ -1,8 +1,8 @@
 # RENU Industrial Training Program 2023
 
-This is the detailed log of the things (mostly technical) I got to learn during my internship with RENU (Research and Education Network for Uganda). RENU is Uganda's National Research and Education Network (NREN).
+This is the detailed log of the things (mostly technical) I got to learn during my internship with RENU (Research and Education Network for Uganda). RENU is Uganda's National Research and Education Network (NREN). You can see the Summarised Table of my time at RENU [here](https://github.com/charleskasasira/charleskasasira)
 
-### Week 1
+### Week 1 (26th - 30th June)
 
 #### Monday: Introduction
 
@@ -36,7 +36,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
 <hr />
 
-### Week 2
+### Week 2 (3rd - 7th July)
 
 #### Monday: OS & VCS
 
@@ -56,7 +56,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
 Project Terms and Breakdown
 
-### WEEK 3
+### WEEK 3 (10th - 14th July)
 
 #### Monday: Project Brainstorm
 
@@ -68,7 +68,7 @@ Project Terms and Breakdown
 
 #### Friday: Technical Department Meeting
 
-### WEEK 4
+### WEEK 4 (17th - 21th July)
 
 #### Monday: Routing and Routed Protocols
 
@@ -81,3 +81,5 @@ Project Terms and Breakdown
 #### Friday: Career Talk from ED UCC
 
 ![image](./images/ED-UCC.png)
+
+### WEEK 5 (24th - 28th July)
