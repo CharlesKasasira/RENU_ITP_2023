@@ -67,6 +67,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
   Its security lies in the difficulty of factoring [semi prime numbers\*][id1]
 
   [id1]: ## "prime numbers whose factors are prime."
+
   ![RSA](./images/RSA.png)
 
 #### WEEK 1 SUM UP
@@ -77,14 +78,30 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
 ### Week 2 (3rd - 7th July)
 
-#### Monday: OS & VCS
+#### Monday: Operating System & Version Control System
+
+###### Operating Systems
+
 ![Operating-Systems](./images/OS.png)
 
-- Unix, BSD, Linux (Unix like / *nix/ POSIX)
+- Unix, BSD, Linux (Unix like / \*nix/ POSIX)
 - Files Systems
 - The linux Distribution Timeline
 
+###### Version Control
+
 #### Tuesday: Virtualization & Containerization
+
+Types of Virtualization
+
+- Desktop
+- Network
+- Storage
+  - Network Attached Storage (NAS) and Storage Area Network (SAN)
+
+##### Week's Tasks: Automaticon
+
+RENU runs hundreds of VMs for its members, how can you automate the process of installing the OS. how to provision a VM at the push of the button.
 
 #### Wednesday: Set up Pi-hole
 
