@@ -78,6 +78,11 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 ### Week 2 (3rd - 7th July)
 
 #### Monday: OS & VCS
+![Operating-Systems](./images/OS.png)
+
+- Unix, BSD, Linux (Unix like / *nix/ POSIX)
+- Files Systems
+- The linux Distribution Timeline
 
 #### Tuesday: Virtualization & Containerization
 
