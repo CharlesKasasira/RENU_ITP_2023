@@ -6,6 +6,8 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
 #### Monday: Introduction
 
+![NREN-&-RREN](./images/NREN.png)
+
 - RENU history
   - 2006: the birth of RENU
   - 2010: UCC License
