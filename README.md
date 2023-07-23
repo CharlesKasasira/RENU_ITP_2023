@@ -67,6 +67,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
   Its security lies in the difficulty of factoring [semi prime numbers\*][id1]
 
   [id1]: ## "prime numbers whose factors are prime."
+  ![RSA](./images/RSA.png)
 
 #### WEEK 1 SUM UP
 
