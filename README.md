@@ -1,4 +1,6 @@
-# RENU_ITP_2023
+# RENU Industrial Training Program 2023
+
+This is the detailed log of the things (mostly technical) I got to learn during my internship with RENU (Research and Education Network for Uganda). RENU is Uganda's National Research and Education Network (NREN).
 
 ### Week 1
 
@@ -56,7 +58,7 @@ Project Terms and Breakdown
 
 ### WEEK 3
 
-#### Monday:  Project Brainstorm
+#### Monday: Project Brainstorm
 
 #### Tuesday: Layer-2 switch functions
 
