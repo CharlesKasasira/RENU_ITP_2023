@@ -40,7 +40,9 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 #### Friday: SSH key-based authentication on a Linux server
 
 - ssh
-  - SSH supports 2 forms of authentication `Password` and `Public key`. `Public-key` is more secure. I had to disable Password Authentication on the VMs.
+  - SSH supports 2 forms of authentication `Password` and `Public key`. `Public-key` is more secure. I had to disable Password Authentication on the VMs. 
+  
+    ```#PasswordAuthentication no```
   - Wrote a script to generate ssh keys
   ```sh
   #!/bin/bash
