@@ -162,7 +162,25 @@ Mainly daily tasks: Monitor and analyze the network
 
 #### Wednesday: Visited RENU's Data Center
 
+`(session with Arthur)`
+
+**Google Cache**: in RENU's data center to store and deliver cached content for faster access.
+
+**ODF (Optical Distribution Frame)**: provides centralized location for the termination, splicing, interconnection of optical fibres.
+
 #### Thursday: Wireless Concepts
+
+`(session with Nicholas Brain)`
+
+Telecommunication = Distant communication
+
+**SSID (Service Set Identifier)**: a unique name that identifies a specific Wi-Fi network.
+
+**ISM (Industrial, Scientific, Medical bands)**
+
+```
+band = collection of frequencies
+```
 
 #### Friday: Career Talk from ED UCC
 
