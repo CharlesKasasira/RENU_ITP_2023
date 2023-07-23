@@ -115,7 +115,11 @@ RENU runs hundreds of VMs for its members, how can you automate the process of i
 
 #### WEEK 2 SUM UP
 
-Project Terms and Breakdown
+Talk from Dr. Daniel Walulya
+![Dr. Daniel Walulya](./images/Dr-Daniel-Walulya.png)
+
+Talk from Brook
+![Brook](./images/Brook.png)
 
 ### WEEK 3 (10th - 14th July)
 
