@@ -16,7 +16,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
   - RREN - UbuntuNet Alliance
   - NREN - RENU
 - RENU operations
-  - [RENU board](https://renu.ac.ug)
+  - [RENU board](https://renu.ac.ug/governance.html)
   - RENU secretariat
   - Service: eduroam, eduVPN, Web hosting, Cloud, turnitin, etc
 
