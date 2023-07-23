@@ -115,8 +115,8 @@ RENU runs hundreds of VMs for its members, how can you automate the process of i
 
 #### WEEK 2 SUM UP
 
-Talk from Dr. Daniel Walulya
-![Dr. Daniel Walulya](./images/Dr-Daniel-Walulya.png)
+Talk from Dr. Ivan Walulya
+![Dr. Ivan Walulya](./images/Dr-Ivan-Walulya.png)
 
 Talk from Brook
 ![Brook](./images/Brook.png)
