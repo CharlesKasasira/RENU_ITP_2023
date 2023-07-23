@@ -125,9 +125,28 @@ Talk from Brook
 
 #### Monday: Project Brainstorm
 
+##### Day in the life of a SOC (Security Operation Centre) Analyst
+
+Knowledge Areas
+
+- Networking
+- Malware analysis
+- Incident analysis
+- Cyber etiquette
+
+Mainly daily tasks: Monitor and analyze the network
+
+##### 3 Levels of SOC anaylst
+
+- L1: focus alert triaging
+- L2: typically handle escalated threats
+- L3: Escalations from L2
+
 #### Tuesday: Layer-2 switch functions
 
 #### Wednesday: VLANS
+
+`(session with Clinton)`
 
 #### Thursday: TCP/IP
 
@@ -136,6 +155,8 @@ Talk from Brook
 ### WEEK 4 (17th - 21th July)
 
 #### Monday: Routing and Routed Protocols
+
+![Routing and Routed Protocols ](./images/Routing-Routed.png)
 
 #### Tuesday: Configuring Router and Switch using Packet Tracer
 
