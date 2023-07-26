@@ -1,0 +1,6 @@
+---
+- hosts: webservers
+  become: yes
+  tasks:
+    - name: Create directory and file
+      shell: mkdir ansible-directory-test7 && touch ansible-directory-test7/anisble-file-test1
