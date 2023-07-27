@@ -70,6 +70,12 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
   ![RSA](./images/RSA.png)
 
+  Sharing Files from local to remote using scp
+
+  ```shell
+  scp filename charles@remote_ip:/home/charles/
+  ```
+
 #### WEEK 1 SUM UP
 
 ![image](./images/weel1-tweet.png)
