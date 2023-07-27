@@ -73,7 +73,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
   Sharing Files from local to remote using scp
 
   ```shell
-  scp filename charles@remote_ip:/home/charles/
+  $ scp filename charles@remote_ip:/home/charles/
   ```
 
 #### WEEK 1 SUM UP
