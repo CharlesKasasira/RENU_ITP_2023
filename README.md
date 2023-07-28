@@ -2,7 +2,7 @@
 
 This is the detailed log of the things (mostly technical) I got to learn during my internship with RENU (Research and Education Network for Uganda). RENU is Uganda's National Research and Education Network (NREN). You can see the Summarised Table of my time at RENU [here](https://github.com/charleskasasira/charleskasasira).
 
-### Week 1 (26th - 30th June)
+### <a name="week-1-26th-30th-june"></a>Week 1 (26th - 30th June)
 
 #### Monday: Introduction
 
