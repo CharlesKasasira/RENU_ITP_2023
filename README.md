@@ -194,4 +194,28 @@ band = collection of frequencies
 
 ### <a name="week-5-24th-28th-july"></a>WEEK 5 (24th - 28th July)
 
+#### Thursday: Automation
+
+##### Ansible
+
+##### Scripting
+
+##### Cronjobs
+
+> cron = chronos (Greek for time)
+
+A cron is a time-based job scheduler in unix-like OS.
+
+Why cron:
+
+- System maintence
+- Backups
+- Data synchronization
+- Report generation
+- more...
+
+Crontab (Cron Table) - reads a configuration file.
+
+` $: 0 7 * * * curl http://charleskasasira.me/send_good_morning_sms/`
+
 ![packet-tracer](./images/packet.png)
