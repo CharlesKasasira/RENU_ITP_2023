@@ -82,7 +82,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
 <hr />
 
-### <a name="week-2-3rd-7th-july">Week 2 (3rd - 7th July)
+### <a name="week-2-3rd-7th-july"></a>Week 2 (3rd - 7th July)
 
 #### Monday: Operating System & Version Control System
 
@@ -127,7 +127,7 @@ Talk from Dr. Ivan Walulya
 Talk from Brook
 ![Brook](./images/Brook.png)
 
-### <a name="week-3-10th-14th-july">WEEK 3 (10th - 14th July)
+### <a name="week-3-10th-14th-july"></a>WEEK 3 (10th - 14th July)
 
 #### Monday: Project Brainstorm
 
@@ -158,7 +158,7 @@ Mainly daily tasks: Monitor and analyze the network
 
 #### Friday: Technical Department Meeting
 
-### <a name="week-4-17th-21th-july">WEEK 4 (17th - 21th July)
+### <a name="week-4-17th-21th-july"></a>WEEK 4 (17th - 21th July)
 
 #### Monday: Routing and Routed Protocols
 
@@ -192,4 +192,6 @@ band = collection of frequencies
 
 ![image](./images/ED-UCC.png)
 
-### <a name="week-5-24th-28th-july">WEEK 5 (24th - 28th July)
+### <a name="week-5-24th-28th-july"></a>WEEK 5 (24th - 28th July)
+
+![packet-tracer](./images/packet.png)
