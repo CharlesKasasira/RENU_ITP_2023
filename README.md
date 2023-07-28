@@ -218,4 +218,6 @@ Crontab (Cron Table) - reads a configuration file.
 
 ` $: 0 7 * * * curl http://charleskasasira.me/send_good_morning_sms/`
 
+#### Thursday: Packet Tracer
+
 ![packet-tracer](./images/packet.png)
