@@ -68,7 +68,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
   [id1]: ## "prime numbers whose factors are prime."
 
-  ![RSA](./images/RSA.png)
+  ![RSA-SSH](./images/RSA-SSH.png)
 
   Sharing Files from local to remote using scp
 
@@ -97,6 +97,8 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 ###### Version Control
 
 #### Tuesday: Virtualization & Containerization
+
+![Virtualizaton](./images/virtualization.png)
 
 Types of Virtualization
 
@@ -164,6 +166,9 @@ Mainly daily tasks: Monitor and analyze the network
 
 ![Routing and Routed Protocols ](./images/Routing-Routed.png)
 
+##### Loopback Address
+![Loopback](./images/loopback.png)
+
 #### Tuesday: Configuring Router and Switch using Packet Tracer
 
 #### Wednesday: Visited RENU's Data Center
@@ -218,6 +223,6 @@ Crontab (Cron Table) - reads a configuration file.
 
 ` $: 0 7 * * * curl http://charleskasasira.me/send_good_morning_sms/`
 
-#### Thursday: Packet Tracer
+#### Friday: Packet Tracer
 
 ![packet-tracer](./images/packet.png)
