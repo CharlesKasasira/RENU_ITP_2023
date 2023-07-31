@@ -14,6 +14,14 @@
 
 > GNS3 stands for "Graphical Network Simulator-3." It is a popular open-source network simulation platform that allows users to design, configure, and test complex network topologies virtually.
 
+[LibreNMS](https://www.librenms.org/)
+
+> LibreNMS is another open-source network monitoring and management platform. It is a fork of the Observium project and offers similar capabilities but with ongoing development and community support. LibreNMS is designed to monitor a wide range of devices, including routers, switches, servers, and wireless access points.
+
+[Nagios](https://www.nagios.org/)
+
+> Nagios is one of the most widely used open-source network monitoring tools. It provides monitoring and alerting for network services, hosts, and other critical resources. Nagios can monitor various aspects of a network, such as CPU usage, memory utilization, network connectivity, and service availability.
+
 [pingplotter](https://www.pingplotter.com/)
 
 > PingPlotter is a network monitoring and troubleshooting solution that helps millions of internet citizens find the source of network problems and prove the culprit.
