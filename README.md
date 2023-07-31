@@ -94,6 +94,9 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 - Files Systems
 - The linux Distribution Timeline
 
+#### Unix Timeline
+![Unix-Timelinie](./images/unix_timeline.png)
+
 ###### Version Control
 
 #### Tuesday: Virtualization & Containerization
@@ -174,6 +177,8 @@ Mainly daily tasks: Monitor and analyze the network
 #### Wednesday: Visited RENU's Data Center
 
 `(session with Arthur)`
+
+![Data-Center](./images/data_center.png)
 
 **Google Cache**: in RENU's data center to store and deliver cached content for faster access.
 
