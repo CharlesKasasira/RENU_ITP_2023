@@ -94,6 +94,18 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 - Files Systems
 - The linux Distribution Timeline
 
+#### Linux Commands Operators
+| Operator | Description |
+| --- | --- |
+| `&` | allows you to run commands in the background of you terminal |
+| `&&` | allows you to combine multiple commands together in one line of your terminal |
+| `;` | execute commands in order. difference with `&&` is that it will execute next command even if the previous command was unsuccessful |
+| `>` | is a redirector - can take the output from a command and dirrect it elsewhere |
+| `>>` | same function as `>` but appends the output rather than replacing |
+| `\|` | allows you to redirect the output of one command as the input to another command |
+| `\|\|` | execute the next command if the first one fails |
+| `{..}` | group commands |
+
 #### Unix Timeline
 ![Unix-Timelinie](./images/unix_timeline.png)
 
