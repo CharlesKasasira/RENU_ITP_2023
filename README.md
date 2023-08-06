@@ -2,6 +2,7 @@
 
 This is the detailed log of the things (mostly technical) I got to learn during my internship with RENU (Research and Education Network for Uganda). RENU is Uganda's National Research and Education Network (NREN). You can see the Summarised Table of my time at RENU [here](https://github.com/charleskasasira/charleskasasira).
 
+
 ### <a name="week-1-26th-30th-june"></a>Week 1 (26th - 30th June)
 
 #### Monday: Introduction
@@ -70,7 +71,8 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
   ![RSA-SSH](./images/RSA-SSH.png)
 
-  Sharing Files from local to remote using scp
+  ##### Sharing Files from local to remote using scp
+  `SCP` is a command-line tool in Linux used to securely transfer files between local and remote systems over a secure SSH (Secure Shell) connection. It allows users to copy files and directories securely between different hosts without the need for additional setup or software.
 
   ```shell
   $ scp filename charles@remote_ip:/home/charles/
@@ -94,19 +96,25 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 - Files Systems
 - The linux Distribution Timeline
 
+I got to look at the linux Distro timeline, got to learn of the `Debian` branch with some of the common Operating systems including `Ubuntu`, `Kali`, `Tails`
+
+- `Minix` (Mini Unix) - unix-like Os based on a microkernel architecture
+
 #### Linux Commands Operators
-| Operator | Description |
-| --- | --- |
-| `&` | allows you to run commands in the background of you terminal |
-| `&&` | allows you to combine multiple commands together in one line of your terminal |
-| `;` | execute commands in order. difference with `&&` is that it will execute next command even if the previous command was unsuccessful |
-| `>` | is a redirector - can take the output from a command and dirrect it elsewhere |
-| `>>` | same function as `>` but appends the output rather than replacing |
-| `\|` | allows you to redirect the output of one command as the input to another command |
-| `\|\|` | execute the next command if the first one fails |
-| `{..}` | group commands |
+
+| Operator | Description                                                                                                                        |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `&`      | allows you to run commands in the background of you terminal                                                                       |
+| `&&`     | allows you to combine multiple commands together in one line of your terminal                                                      |
+| `;`      | execute commands in order. difference with `&&` is that it will execute next command even if the previous command was unsuccessful |
+| `>`      | is a redirector - can take the output from a command and dirrect it elsewhere                                                      |
+| `>>`     | same function as `>` but appends the output rather than replacing                                                                  |
+| `\|`     | allows you to redirect the output of one command as the input to another command                                                   |
+| `\|\|`   | execute the next command if the first one fails                                                                                    |
+| `{..}`   | group commands                                                                                                                     |
 
 #### Unix Timeline
+
 ![Unix-Timelinie](./images/unix_timeline.png)
 
 ###### Version Control
@@ -165,6 +173,10 @@ Mainly daily tasks: Monitor and analyze the network
 - L2: typically handle escalated threats
 - L3: Escalations from L2
 
+#### Monday: OSI Layers, Layer 1
+
+![OSI_layers](./images/OSI-Layers.png)
+
 #### Tuesday: Layer-2 switch functions
 
 #### Wednesday: VLANS
@@ -182,6 +194,7 @@ Mainly daily tasks: Monitor and analyze the network
 ![Routing and Routed Protocols ](./images/Routing-Routed.png)
 
 ##### Loopback Address
+
 ![Loopback](./images/loopback.png)
 
 #### Tuesday: Configuring Router and Switch using Packet Tracer
@@ -243,3 +256,21 @@ Crontab (Cron Table) - reads a configuration file.
 #### Friday: Packet Tracer
 
 ![packet-tracer](./images/packet.png)
+
+### <a name="week-6-31st-4th-august"></a>WEEK 6 (31st July - 4th August)
+
+#### Monday: Network Monitoring and Management
+
+- Cacti
+- LibreNMS
+- Nagios
+
+#### Tuesday: HelpDesk & NfSen
+
+#### Wednesday: Microwave Links & Eduroam on the Go
+
+`(session with Nicholas Brian)`
+
+#### Thursday: Project Reviews
+
+#### Friday: GitHub Actions & Testing and Code Quality
