@@ -247,7 +247,7 @@ Popular Scripting Language
 - Others
 
 `#!/bin/bash` - shebang
-``
+
 ##### Cronjobs
 
 > cron = chronos (Greek for time)
@@ -268,6 +268,8 @@ Crontab (Cron Table) - reads a configuration file.
 `crontab -l`: view current user's cron jobs
 
 ` 0 7 * * * curl http://charleskasasira.me/send_good_morning_sms/`
+
+
 ` @reboot echo "Welcome Charles"`
 
 #### Friday: Packet Tracer
@@ -291,21 +293,67 @@ Crontab (Cron Table) - reads a configuration file.
 #### Thursday: Project Reviews
 
 #### Friday: GitHub Actions & Testing and Code Quality
+- PEP8
+- Flake8
+- Coverage
+- Write a github action (yml) to check if debug is `True` or `False`
+  
+```yml
+name: Check Debug Setting
 
+on:
+  pull_request:
+    branches:
+      - main
 
+jobs:
+  check_debug:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Set environment variable for GitHub Actions
+        run: echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
+
+      - name: Run Debug Check
+        id: debug_check
+        run: python check_debug_setting.py
+        # If the script fails (non-zero exit status), stop the workflow and prevent merging.
+
+      - name: Check Debug Script Result
+        if: steps.debug_check.outputs.outcome != 'success'
+        run: echo "Debug check passed. Proceeding with merging the pull request."
+```
 
 
 ### <a name="week-7-7tht-11th-august"></a>WEEK 7 (7th - 11th August)
 
 #### Monday: DNS, Webhooks
-A centrally-maintained file, distributed to all host on the internet was the first solution of DNS. We still have the `/etc/hosts` - local DNS.
+A centralally-maintained file, distributed to all host on the internet was the first solution of DNS. We still have the `/etc/hosts` - local DNS.
 - The disadvantage with this is that it doesn't scale.
 
 ##### DNS Herarchy
-- Root Server
-- .ug
-- .ac.ug
-- renu.ac.ug Authoritative server
+
+```
+Root Servers (.)
+├── TLD Servers (.ug, .uk, .sa, ...)
+│   ├── Authoritative Servers (renu.ac.ug)
+│   └── ...
+├── TLD Servers (.me, .com, ...)
+│   ├── Authoritative Servers (charleskasasira.me)
+│   └── ...
+└── Authoritative Servers (example)
+```
 
 Currently `.ug` and `ac.ug` server is run by `I3C`, owned by `Charles Musis`
 
