@@ -121,7 +121,7 @@ I got to look at the linux Distro timeline, got to learn of the `Debian` branch 
 ![Unix-Timelinie](./images/unix_timeline.png)
 
 ###### Version Control
-
+Git, GitHub, BitBucket
 #### Tuesday: Virtualization & Containerization
 
 ![Virtualizaton](./images/virtualization.png)
@@ -233,10 +233,18 @@ band = collection of frequencies
 ### <a name="week-5-24th-28th-july"></a>WEEK 5 (24th - 28th July)
 
 #### Thursday: Automation
+`(session with Fred)`
 
 ##### Ansible
 
 ##### Scripting
+> Scripting = process of writing a series of instructions or commands that can be executed by a computer to automate tasks or perform specific actions.
+
+Popular Scripting Language
+- Bash
+- Python
+- Powershell
+- Others
 
 ##### Cronjobs
 
