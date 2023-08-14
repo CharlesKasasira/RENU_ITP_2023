@@ -274,3 +274,37 @@ Crontab (Cron Table) - reads a configuration file.
 #### Thursday: Project Reviews
 
 #### Friday: GitHub Actions & Testing and Code Quality
+
+
+
+
+### <a name="week-7-7tht-11th-august"></a>WEEK 7 (7th - 11th August)
+
+#### Monday: DNS, Webhooks
+A centrally-maintained file, distributed to all host on the internet was the first solution of DNS. We still have the `/etc/hosts` - local DNS.
+- The disadvantage with this is that it doesn't scale.
+
+##### DNS Herarchy
+- Root Server
+- .ug
+- .ac.ug
+- renu.ac.ug Authoritative server
+
+Currently `.ug` and `ac.ug` server is run by `I3C`, owned by `Charles Musis`
+
+#### Tuesday: Logs, Cron tasks and Backup
+
+#### Wednesday: Routing Games
+
+`(session with Brian)`
+
+#### Thursday: Configuring DNS using `bind` & Project Review
+
+#### Friday: Server Management (Configurations)
+`(session with Derrick)`
+##### Qemu/KVM Virtual Machines - PROXMOX
+QEMU (short form for Quick Emulator) is an open source hypervisor that emulates a physical computer. 
+![Proxmox](https://www.proxmox.com/images/proxmox/Proxmox_logo_standard_hex_400px.png#joomlaImage://local-images/proxmox/Proxmox_logo_standard_hex_400px.png?width=400&height=60)
+
+Proxmox Virtual Environment is a complete, open-source server management platform for enterprise virtualization. It tightly integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage and networking functionality, on a single platform.
+
