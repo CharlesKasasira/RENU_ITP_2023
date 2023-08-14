@@ -11,7 +11,9 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
 - RENU history
   - 2006: the birth of RENU
+  - 2008: UbuntuNet Alliance member
   - 2010: UCC License
+  - 2023: 500th site connected
 - RENU Ecosystem
   - Global
   - RREN - UbuntuNet Alliance
