@@ -1,0 +1,7 @@
+```
+$: msfupdate
+```
+
+```
+$: msfconsole
+```
