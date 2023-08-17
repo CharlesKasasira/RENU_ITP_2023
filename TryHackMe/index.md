@@ -5,3 +5,7 @@
 [A list of useful tools and resources](https://0xrick.github.io/lists/stego/https://0xrick.github.io/lists/stego/)
 
 CVEs (Common Vulnerabilities and Exposures)
+
+
+### Resources
+[https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
