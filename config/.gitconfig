@@ -1,0 +1,21 @@
+[user]
+  name = CharlesKasasira
+  mail = 
+
+[alias]
+  co = checkout
+  ci = commit
+  br = branch
+  st = status
+
+[init]
+  defaultBranch = main
+
+[github]
+  token =
+ 
+[pull]
+  rebase = false
+
+[sequence]
+  editor = vim                     
