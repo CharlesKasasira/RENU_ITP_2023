@@ -154,6 +154,7 @@ RENU runs hundreds of VMs for its members, how can you automate the process of i
 #### Thursday: Active Directory on Windows Server. Project
 
 #### Friday: Active Directory
+Resource: [https://www.youtube.com/watch?v=xftEuVQ7kY0&t=540s](https://www.youtube.com/watch?v=xftEuVQ7kY0&t=540s)
 
 #### WEEK 2 SUM UP
 
