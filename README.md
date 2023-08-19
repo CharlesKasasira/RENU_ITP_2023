@@ -202,8 +202,16 @@ Mainly daily tasks: Monitor and analyze the network
 ### <a name="week-4-17th-21th-july"></a>WEEK 4 (17th - 21th July)
 
 #### Monday: Routing and Routed Protocols
+`(session with Fahadi)`
 
 ![Routing and Routed Protocols ](./images/Routing-Routed.png)
+
+#### Exterior Routing Protocol
+![BGP](./images/BGP.png)
+
+- BGP runs over `TCP` port 179
+- Internal BGP `iBGP` vs External BGP `eBGP`
+- used for exchanging routing and reachability information among `ASes` 
 
 ##### Loopback Address
 
