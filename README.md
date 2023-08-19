@@ -137,6 +137,11 @@ Types of Virtualization
 
 RENU runs hundreds of VMs for its members, how can you automate the process of installing the OS. how to provision a VM at the push of the button.
 
+**Line of thought**
+- Configuration Management Tools [`Ansible`, `Chef`, `Puppet`]
+- Preseed files, Kickstart files
+***VBoxManage*** -> command line interface to Oracle's VirtualBox
+
 #### Wednesday: Set up Pi-hole
 
 ![image](./images/pihole.png)
