@@ -123,6 +123,7 @@ I got to look at the linux Distro timeline, got to learn of the `Debian` branch 
 ###### Version Control
 Git, GitHub, BitBucket
 #### Tuesday: Virtualization & Containerization
+`(session with Claire)`
 
 ![Virtualizaton](./images/virtualization.png)
 
@@ -133,13 +134,15 @@ Types of Virtualization
 - Storage
   - Network Attached Storage (NAS) and Storage Area Network (SAN)
 
-##### Week's Tasks: Automaticon
+##### Week's Tasks: Automation
 
-RENU runs hundreds of VMs for its members, how can you automate the process of installing the OS. how to provision a VM at the push of the button.
+RENU runs hundreds of VMs for its members, how can you automate the process of installing the OS. how to provision a VM at the push of a button.
 
 **Line of thought**
-- Configuration Management Tools [`Ansible`, `Chef`, `Puppet`]
+- Configuration Management Tools [ `Ansible`, `Chef`, `Puppet` ]
 - Preseed files, Kickstart files
+
+
 ***VBoxManage*** -> command line interface to Oracle's VirtualBox
 
 #### Wednesday: Set up Pi-hole
