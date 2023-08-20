@@ -6,3 +6,10 @@ syntax enable
 
 colorscheme desert
 
+" Use spaces for indentation (replace with "set tabstop=4" for tabs)
+set expandtab
+set shiftwidth=4
+
+" Highlight search results as you type
+set incsearch
+
