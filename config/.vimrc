@@ -13,3 +13,6 @@ set shiftwidth=4
 " Highlight search results as you type
 set incsearch
 
+" Autocompletion with YouCompleteMe
+let g:ycm_autoclose_preview_window_after_completion = 1
+
