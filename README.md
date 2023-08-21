@@ -189,6 +189,8 @@ Mainly daily tasks: Monitor and analyze the network
 
 ![OSI_layers](./images/OSI-Layers.png)
 
+![Encapsulation](./images/encapulsation.jpeg)
+
 #### Tuesday: Layer-2 switch functions
 
 #### Wednesday: VLANS
