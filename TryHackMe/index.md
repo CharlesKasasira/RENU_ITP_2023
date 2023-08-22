@@ -6,6 +6,13 @@
 
 CVEs (Common Vulnerabilities and Exposures)
 
+#### Cyber Kill Chain
+Cyber kill chain is a concept used in cybersecurity to describe the various stages that a cyber attacker goes through when launching a targeted attack on a network or system.
+Standard Cyber Kill chains
+- [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [Unified Kill Chain](https://unifiedkillchain.com/)
+- [Varonis Cyber Kill Chain](https://www.varonis.com/blog/cyber-kill-chain)
+
 
 ### Resources
 - [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
