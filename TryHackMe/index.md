@@ -18,3 +18,4 @@ Standard Cyber Kill chains
 - [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 - [SQLmap](https://sqlmap.org/)
 - [https://redteam.guide](https://redteam.guide)
+- [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
