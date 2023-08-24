@@ -7,4 +7,5 @@ but because it is FUN to program.
 `Linus Torvalds`
 ```
 
-![tmux-session](fun_101.png)
+### Fun with tmux sessions
+![tmux-session](tmux-sessions.gif)
