@@ -78,6 +78,9 @@ This is the detailed log of the things (mostly technical) I got to learn during 
 
   ```shell
   $ scp filename charles@remote_ip:/home/charles/
+
+  # changed port from default(22) port, to lets say 5000
+  $ scp -P 5000 cool_file.py charles@remote_ip:/home/charles/cool_folder
   ```
 
 #### WEEK 1 SUM UP
