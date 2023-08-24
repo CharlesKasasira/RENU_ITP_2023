@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'JetBrains Mono' ",
+    "terminal.integrated.autoReplies": {
+
+    },
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-markdown.preview": true
+    },
+    "workbench.colorTheme": "Cobalt2",
+    "editor.wordWrap": "on",
+    "editor.fontWeight": "normal",
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme"
+}
