@@ -58,6 +58,7 @@ This is the detailed log of the things (mostly technical) I got to learn during 
   # -t rsa: Specifies the key type as RSA
   # -f "$key_path": Specifies the file path and name for the key pair
   # -q: Enables quiet mode, suppressing unnecessary output
+  # -C "comment"
   # -P "": Sets an empty passphrase
   ssh-keygen -t rsa -f "$key_path" -q -P ""
   echo "SSH key pair generated successfully."
