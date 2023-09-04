@@ -1,3 +1,6 @@
+
+**Font**: JetBrains Mono
+
 ### Extensions
 
 - Cobalt2 Theme Official
