@@ -1,2 +1,4 @@
 - Wappalyzer
 - bitwarden
+- React Developer Tools
+- Grammarly
