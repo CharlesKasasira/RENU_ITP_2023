@@ -2,7 +2,7 @@
   
 # intended for use on my own personal portal without auth on images dir.
 
-url = "https://test.edplus360.com/uploads/student_images"
+url = "https://charleskasasiradomain.com/uploads-directory/images"
 # Loop over the range of student IDs
 for id in $(seq 1 12980); do
      url="${url}/${id}.JPG"
