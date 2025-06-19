@@ -1,0 +1,8 @@
+- DBeaver (universal DB manager) https://dbeaver.io/download/
+- pgAdmin4 (postgres DB manager)
+- cursorAI
+- Flow
+- Notion & Notion Calendar
+- Spotify
+- Postman
+- Brave browser
