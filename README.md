@@ -3,6 +3,25 @@
 This is the detailed log of the things (mostly technical) I got to learn during my internship with RENU (Research and Education Network for Uganda). RENU is Uganda's National Research and Education Network (NREN). You can see the Summarised Table of my time at RENU [here](https://github.com/charleskasasira/charleskasasira).
 
 
+<hr>
+
+### Summary Table
+
+| Week | Monday                                                            | Tuesday                                                                                | Wednesday             | Thursday                                    | Friday                                         | Sum-up                                                                                 |
+| ---- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1    | <ul><li>Onboarding </li><li>Introduction to Office Staff and Operations</li><ul>                                                       | <ul> <li>Goals of the Industrial Training Program.</li> | <ul><li>[Eid al-Adha](https://en.wikipedia.org/wiki/Eid_al-Adha)</li></ul> | Installation of Prerequisite software       | SSH key-based authentication on a Linux server | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-1-26th-30th-june) |
+| 2    | <ul><li>Operating System</li><li>Version Control Systems</li></ul>                                                         | <ul><li>Virtualization</li><li>Containerization</li></ul> | <ul><li>Setting up Pi-hole</li></ul> | <ul><li>Active Directory on Windows Server.</li> <li>Project</li></ul> | <ul><li>Active Directory</li><ul>                              | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-2-3rd-7th-july) |
+| 3    | <ul><li>Project Brainstorm(choose of language, SDLC)</li> <li>OSI layers</li></ul> | <ul><li>Layer-2 switch functions</li> <li>Lan switch types </li></ul>                                         | <ul><li>VLANS</li></ul>               | <ul><li>TCP/IP</li></ul>                                    | <ul><li>Technical Department Meeting</li></ul>                 | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-3-10th-14th-july) |
+| 4 | <ul><li>Routing Protocols</li><li>Routed Protocols</li></ul> | <ul><li>Packet Tracer</li></ul> | <ul><li>Visited RENU's Data Center</li></ul> | <ul><li>Wireless Concepts</li></ul> | Career Talk from ED [UCC](https://www.ucc.co.ug/), `Eng. Irene Kaggwa` | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-4-17th-21th-july) |
+| 5 | <ul><li>The Linux Shell (Bash)</li><li>Navigation of the filesystem in Linux</li></ul>  | <ul><li>Linux Editors <ul><li>Nano</li><li>Vi</li><li>Vim</li></ul></li></ul> | <ul><li>Automation</li><ul><li>Ansible</li><li>Scripting</li><li>Cronjobs</li></ul></ul>  | <ul><li>Project Review</li><li>Securing a web app <ul><li>OWASP-10</li></ul></li></ul>  | <ul><li>Read about Webmin</li><li>Talk about GPA (Group Personal Accident)</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-4-17th-21th-july) |
+| 6 | <ul><li>Network Monitoring & Mgt</li><ul><li>Cacti</li><li>LibreNMS</li><li>Nagios</li></ul> | <ul><li>HelpDesk</li><li>NfSen</li></ul></ul> | <ul><li>Microwave Links</li><li>Eduroam on the Go</li></ul>  | <ul><li>Project Reviews</li></ul>  | <ul><li>Testing and Code Quality</li><li>GitHub Actions</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-6-31st-4th-august) |
+| 7 | <ul><li>DNS</li><li>Setup a Webhook</li><li>Webhook vs API</li></ul>  | <ul><li>Logs</li><li>Cron tasks</li><li>Backup</li></ul>  | <ul><li>Routing Game</li></ul>  | <ul><li>Configured DNS using `bind`</li><li>Project Review</li><li></li></ul>  | <ul><li>Server Management (Configurations)</li><li>Created a systemd for gunicorn (`timesaver`)</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-6-31st-4th-august) |
+| 8 | <ul><li>Web server proxies</li><li>Databases</li></ul>  | <ul><li>Firewalls</li><li>General good security practices</li></ul>  | <ul><li>SSL certificate</li></ul>  | <ul><li>End of Project</li></ul>  | <ul><li>CJ Treat</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-6-31st-4th-august) |
+
+
+<hr>
+
+
 ### <a name="week-1-26th-30th-june"></a>Week 1 (26th - 30th June)
 
 #### Monday: Introduction
